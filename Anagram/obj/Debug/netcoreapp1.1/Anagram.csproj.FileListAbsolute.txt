@@ -1,0 +1,9 @@
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.AssemblyInfo.cs
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/bin/Debug/netcoreapp1.1/Anagram.deps.json
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/bin/Debug/netcoreapp1.1/Anagram.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/bin/Debug/netcoreapp1.1/Anagram.pdb
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.pdb

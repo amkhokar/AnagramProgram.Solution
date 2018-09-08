@@ -1,0 +1,17 @@
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.AssemblyInfo.cs
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.deps.json
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.runtimeconfig.json
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.runtimeconfig.dev.json
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.Tests.pdb
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.pdb
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.csproj.CopyComplete
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.dll
+/Users/ahmed/Desktop/epicodus/AnagramProgram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.pdb
