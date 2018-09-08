@@ -8,35 +8,7 @@ namespace Anagram
         private static List<string> _anagramList = new List<string>();
         private static string _inputWord = ""; 
         private static List<string> _inputList = new List<string>(); 
-
-        public AnagramProgram(string word, List<string> checkList)
-        {
-            _inputWord = word; 
-            foreach(string check in checkList)
-            {
-                _inputList.Add(check); 
-            }
-
-        }
-        public List<string> GetAnagrams()
-        {
-            return _anagramList; 
-        }
-
-        public List<string> GetInputList()
-        {
-            return _inputList; 
-        }
-
-
-        public string ReturnSortedWord(string word)
-        {
-            char[] charArray = word.ToCharArray();
-            Array.Sort(charArray);
-            string sortedWord = new string(charArray);  
-            return sortedWord; 
-        }
-        public void AnagramMatcher()
+        public void SetAnagrams()
         {
             foreach(string check in _inputList)
             {
@@ -47,23 +19,45 @@ namespace Anagram
                     _anagramList.Add(check); 
                 }
             }
+        }
+        public List<string> GetAnagrams()
+        {
+            return _anagramList; 
+        }
+        public void AddToInputList(string inputWord)
+        {
+            _inputList.Add(inputWord);
+        }
+        public List<string> GetInputList()
+        {
+            return _inputList; 
+        }
+        public string ReturnSortedWord(string word)
+        {
+            char[] charArray = word.ToCharArray();
+            Array.Sort(charArray);
+            string sortedWord = new string(charArray);  
+            return sortedWord; 
         } 
-
+        public class Program
+    {
         public static void Initialize()
         {
-            List<string> inputList = new List<string>(); 
-            string word = ""; 
-            Console.WriteLine("");
+            AnagramProgram anagramz = new AnagramProgram(); 
+            Console.WriteLine("Enter your word to match from: ");
+            string input = Console.ReadLine(); 
+            anagramz.AddToInputList(input);
+            while (input != "match")
+            {
+                Console.WriteLine("Enter one word a time and type 'match' to check matches against original word");
+                input = Console.ReadLine();          
+            }         
         }
-    }
-
-    public class Program
-    {
         public static void main() 
-        {
-            Console.WriteLine("Welcome to Anagram Match!"); 
-            AnagramProgram.Initialize(); 
+        { 
+            Console.WriteLine("Welcome to Anagram Match!");  
+            Initialize(); 
         }
+    }  
     }
-
 }
