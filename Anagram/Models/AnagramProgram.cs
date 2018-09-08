@@ -39,7 +39,8 @@ namespace Anagram
             string sortedWord = new string(charArray);  
             return sortedWord; 
         } 
-        public class Program
+    }
+    public class Program
     {
         public static void Initialize()
         {
@@ -59,5 +60,4 @@ namespace Anagram
             Initialize(); 
         }
     }  
-    }
 }
