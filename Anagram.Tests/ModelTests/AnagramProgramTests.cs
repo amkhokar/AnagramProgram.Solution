@@ -11,7 +11,7 @@ namespace Anagram.Tests
         [TestMethod]
         public void isBoolean()
         {
-
+        
         }
     }
 }

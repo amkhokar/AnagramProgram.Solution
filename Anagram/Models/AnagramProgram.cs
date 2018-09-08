@@ -5,7 +5,8 @@ namespace Anagram
 {
     public class AnagramProgram
     {
-        private static List<string> _anagramList = {};
+        private static List<string> _anagramList = new List<string>();
+        
          
 
     }
