@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-
 namespace Anagram 
 {
     public class AnagramProgram
@@ -31,12 +30,10 @@ namespace Anagram
         {
             return _anagramList; 
         }
-
         public void SetMatchWord(string matchWord)
         {
             _inputWord = matchWord; 
         }
-
         public string GetMatchWord()
         {
             return _inputWord;
@@ -91,7 +88,7 @@ namespace Anagram
             foreach(string word in newList)
             {
                 Console.Write(word + "\n\n");
-            }
+        }
             Console.WriteLine("Thank you for playing! Press CTRL + C To Quit!!!"); 
             Initialize(); 
         }
