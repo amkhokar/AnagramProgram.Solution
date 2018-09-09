@@ -16,7 +16,33 @@ namespace Anagram.Tests
             string unsorted = "bcefda";
             string testString = testProgram.ReturnSortedWord(unsorted);
             Assert.AreEqual(expectedString, testString); 
-
+        }
+        [TestMethod]
+        public void ReturnSortedWord_alphabeticalOrder_True()
+        {
+            AnagramProgram testProgram = new AnagramProgram(); 
+            string expectedString = "abcdef";
+            string unsorted = "bcefda";
+            string testString = testProgram.ReturnSortedWord(unsorted);
+            Assert.AreEqual(expectedString, testString); 
+        }
+        [TestMethod]
+        public void ReturnSortedWord_alphabeticalOrder_True()
+        {
+            AnagramProgram testProgram = new AnagramProgram(); 
+            string expectedString = "abcdef";
+            string unsorted = "bcefda";
+            string testString = testProgram.ReturnSortedWord(unsorted);
+            Assert.AreEqual(expectedString, testString); 
+        }
+        [TestMethod]
+        public void ReturnSortedWord_alphabeticalOrder_True()
+        {
+            AnagramProgram testProgram = new AnagramProgram(); 
+            string expectedString = "abcdef";
+            string unsorted = "bcefda";
+            string testString = testProgram.ReturnSortedWord(unsorted);
+            Assert.AreEqual(expectedString, testString); 
         }
     }
 }
